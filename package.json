@@ -1,0 +1,8 @@
+{
+  "name": "last-hand",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A real-time multiplayer poker roguelike party game",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
